@@ -1,0 +1,93 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// LUA
+//
+
+IDR_LUA1                LUA                     "Scripts\\all.lua"
+IDR_LUA2                LUA                     "Scripts\\array.lua"
+IDR_LUA3                LUA                     "Scripts\\basic.lua"
+IDR_LUA4                LUA                     "Scripts\\class.lua"
+IDR_LUA5                LUA                     "Scripts\\clean.lua"
+IDR_LUA6                LUA                     "Scripts\\code.lua"
+IDR_LUA7                LUA                     "Scripts\\compat.lua"
+IDR_LUA8                LUA                     "Scripts\\compat-5.1.lua"
+IDR_LUA9                LUA                     "Scripts\\container.lua"
+IDR_LUA10               LUA                     "Scripts\\custom.lua"
+IDR_LUA11               LUA                     "Scripts\\declaration.lua"
+IDR_LUA12               LUA                     "Scripts\\define.lua"
+IDR_LUA13               LUA                     "Scripts\\doit.lua"
+IDR_LUA14               LUA                     "Scripts\\enumerate.lua"
+IDR_LUA15               LUA                     "Scripts\\feature.lua"
+IDR_LUA16               LUA                     "Scripts\\function.lua"
+IDR_LUA17               LUA                     "Scripts\\module.lua"
+IDR_LUA18               LUA                     "Scripts\\namespace.lua"
+IDR_LUA19               LUA                     "Scripts\\operator.lua"
+IDR_LUA20               LUA                     "Scripts\\package.lua"
+IDR_LUA21               LUA                     "Scripts\\template_class.lua"
+IDR_LUA22               LUA                     "Scripts\\typedef.lua"
+IDR_LUA23               LUA                     "Scripts\\variable.lua"
+IDR_LUA24               LUA                     "Scripts\\verbatim.lua"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

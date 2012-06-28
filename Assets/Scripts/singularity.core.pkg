@@ -1,0 +1,157 @@
+$#include "scripting\Singularity.Scripting.h"
+
+$ifile "common\Vectors.h"
+
+$ifile "common\Bounds.h"
+
+$ifile "common\ObjectType.h"
+
+$ifile "common\Object.h"
+
+$ifile "common\IDelegate.h"
+
+$ifile "common\DelegateHandler.h"
+
+$ifile "core\components\Component.h"
+
+$ifile "core\components\GameObject.h"
+
+$ifile "core\components\Transform.h"
+
+$ifile "core\components\Scene.h"
+
+$ifile "core\Game.h"
+
+$ifile "graphics\devices\Screen.h"
+
+$ifile "graphics\Texture2D.h"
+
+$ifile "graphics\components\Camera.h"
+
+$ifile "graphics\components\Light.h"
+
+$ifile "graphics\Material.h"
+
+$ifile "graphics\Mesh.h"
+
+$ifile "graphics\Devices\Screen.h"
+
+$ifile "graphics\components\Renderer.h"
+
+$ifile "graphics\components\MeshRenderer.h"
+
+$ifile "graphics\components\Axis.h"
+
+$ifile "inputs\MouseState.h"
+
+$ifile "inputs\KeyboardState.h"
+
+$ifile "inputs\Input.h"
+
+$ifile "physics\Collider.h"
+
+$ifile "physics\BoxCollider.h"
+
+$ifile "physics\SphereCollider.h"
+
+$ifile "physics\CapsuleCollider.h"
+
+$ifile "physics\RigidBody.h"
+
+$ifile "physics\CharacterController.h"
+
+$ifile "gui\NinePatch.h"
+
+$ifile "gui\Font.h"
+
+$ifile "gui\GuiScreen.h"
+
+$ifile "gui\Control.h"
+
+$ifile "gui\TextControl.h"
+
+$ifile "gui\Panel.h"
+
+$ifile "gui\Window.h"
+
+$ifile "gui\Button.h"
+
+$ifile "gui\Checkbox.h"
+
+$ifile "gui\Image.h"
+
+$ifile "gui\Label.h"
+
+$ifile "gui\Textbox.h"
+
+$ifile "gui\ListBoxElement.h"
+
+$ifile "gui\ListBox.h"
+
+$ifile "content\IContentImporter.h"
+
+$ifile "content\IModelImporter.h"
+
+$ifile "content\ModelLoader.h"
+
+$ifile "content\SmurfModelImporter.h"
+
+$ifile "audio\AudioManager.h"
+
+$ifile "audio\AudioEmitter.h"
+
+$ifile "audio\AudioListener.h"
+
+$ifile "audio\WaveBank.h"
+
+$ifile "audio\SoundBank.h"
+
+$ifile "audio\Cue.h"
+
+$ifile "audio\AdaptiveMusicManager.h"
+
+$ifile "audio\AdaptiveEnvironment.h"
+
+$ifile "audio\AdaptiveParameter.h"
+
+$ifile "audio\AdaptiveProperty.h"
+
+$ifile "audio\AdaptiveSlice.h"
+
+$ifile "networking\IPAddress.h"
+
+$ifile "networking\Network.h"
+
+$ifile "networking\Packet.h"
+
+$ifile "networking\NetworkGame.h"
+
+$ifile "networking\NetworkPlayer.h"
+
+$ifile "networking\NetworkSession.h"
+
+$ifile "particles\ParticleEmitter.h"
+
+$ifile "scripting\LuaBinder.h"
+
+$ifile "scripting\LuaBehaviorDelegate.h"
+
+$ifile "scripting\LuaTransformDelegate.h"
+
+$ifile "scripting\LuaControlDelegate.h"
+
+$ifile "scripting\LuaControlMouseDelegate.h"
+
+$ifile "scripting\LuaControlKeyboardDelegate.h"
+
+$ifile "scripting\LuaListBoxDelegate.h"
+
+$ifile "scripting\LuaCollisionDelegate.h"
+
+$ifile "scripting\LuaNetworkDelegate.h"
+
+$ifile "scripting\LuaNetworkPacket.h"
+
+$ifile "animations\Animation.h"
+
+$ifile "particles\EmitterManager.h"

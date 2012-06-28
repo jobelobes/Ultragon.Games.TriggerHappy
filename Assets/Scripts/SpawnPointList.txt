@@ -1,0 +1,17 @@
+Spawn points:
+
+651, 19, 390
+1292, 21, 868
+1265, 75, 435
+1883, 75, 714
+1900, 18, 720
+-71, 32, 452
+620, 17, -140
+514, 17, -224
+2080, 33, 379
+
+Control Points:
+-288, 87, 17 - Top of the flower pot in the warehouse)
+1741, 31, -109 - Museum (Castle Room)
+836, 18, 557 - Infirmary
+1556, 76, 834 - Arena

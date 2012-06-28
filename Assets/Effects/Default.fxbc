@@ -1,0 +1,14 @@
+/T fx_4_0 /Fo shader_diffuse.fxo shader_diffuse.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_basiceffect.fxo shader_basiceffect.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_guieffect.fxo shader_guieffect.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_fonteffect.fxo shader_fonteffect.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_particles.fxo shader_particle.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_animatedmesh.fxo shader_animatedmesh.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_deferredbasiceffect.fxo shader_deferredbasiceffect.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_deferredlighting.fxo shader_deferredlighting.fx
+/T fx_4_0 /Fo ..\..\Code\Singularity_Engine\resources\shader_deferredCombineEffect.fxo shader_deferredCombineEffect.fx
+
+
+
+
+

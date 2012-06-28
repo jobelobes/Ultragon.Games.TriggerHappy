@@ -1,0 +1,15 @@
+//Maya 2009 Project Definition
+
+workspace -fr "scene" "scenes";
+workspace -fr "mayaAscii" "scenes";
+workspace -fr "iprImages" "renderData/iprImages";
+workspace -fr "lights" "renderData/shaders";
+workspace -fr "particles" "particles";
+workspace -fr "mayaBinary" "scenes";
+workspace -fr "renderScenes" "renderScenes";
+workspace -fr "images" "images";
+workspace -fr "Fbx" "Fbx";
+workspace -fr "depth" "renderData/depth";
+workspace -fr "diskCache" "data";
+workspace -fr "templates" "assets";
+workspace -fr "sourceImages" "sourceimages";

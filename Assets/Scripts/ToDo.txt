@@ -1,0 +1,22 @@
+Conservation 
+-Stay Alive for 30s.
+-Prevent three shots with a wall without dying.
+-Hit 5 players with modifiers while in range of a control point you own.
+
+Tactical
+-Kill a player.
+-Kill someone from the ceiling.
+-Kill someone within 10s of them shooting an illusion.
+
+Traps
+-Science - Kill someone while under the effect of one modifier.
+-Freak of Nature-Kill someone while under the effect of three modifiers.
+-David Had His Day-Kill a shrunken person while giant.
+
+
+Rewards
+-Speed - 10,30,50
+-Continuous Heal
+-Immune to the next hostile modifier.
+
+
