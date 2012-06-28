@@ -1,0 +1,513 @@
+<?xml version="1.0"?><!--Test file for XML output-->
+<environment>
+  <environmentname>TestEnv</environmentname>
+  <audio>
+    <settingspath>..\..\Content\Audio\Win\AAPT.xgs</settingspath>
+    <wavebankpath>..\..\Content\Audio\Win\Slices.xwb</wavebankpath>
+    <soundbankpath>..\..\Content\Audio\Win\Slices.xsb</soundbankpath>
+  </audio>
+  <categories>
+    <categoryname>drums</categoryname>
+    <categoryname>rhythm</categoryname>
+    <categoryname>lead</categoryname>
+  </categories>
+  <parameters>
+    <parameter>
+      <parametername>Health</parametername>
+      <min>0</min>
+      <max>75</max>
+    </parameter>
+    <parameter>
+      <parametername>Ammo</parametername>
+      <min>0</min>
+      <max>100</max>
+    </parameter>
+  </parameters>
+  <slices>
+    <slice>
+      <slicename>Drums1</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums1</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties>
+        <property>
+          <propertyname>HealthDefaultProperty</propertyname>
+          <propertyparametername>Health</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>75</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+        <property>
+          <propertyname>AmmoDefaultProperty</propertyname>
+          <propertyparametername>Ammo</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>100</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+      </properties>
+    </slice>
+    <slice>
+      <slicename>Drums2</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums2</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties>
+        <property>
+          <propertyname>HealthDefaultProperty</propertyname>
+          <propertyparametername>Health</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>75</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+        <property>
+          <propertyname>AmmoDefaultProperty</propertyname>
+          <propertyparametername>Ammo</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>100</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+      </properties>
+    </slice>
+    <slice>
+      <slicename>Drums3</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums3</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties>
+        <property>
+          <propertyname>HealthDefaultProperty</propertyname>
+          <propertyparametername>Health</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>75</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+        <property>
+          <propertyname>AmmoDefaultProperty</propertyname>
+          <propertyparametername>Ammo</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>100</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+      </properties>
+    </slice>
+    <slice>
+      <slicename>Drums4</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums4</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties>
+        <property>
+          <propertyname>AmmoDefaultProperty</propertyname>
+          <propertyparametername>Ammo</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>100</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+      </properties>
+    </slice>
+    <slice>
+      <slicename>Drums5</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums5</cuename>
+      <sliceimportance>0</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Drums6</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums6</cuename>
+      <sliceimportance>0</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Drums7</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums7</cuename>
+      <sliceimportance>0</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Drums8</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>120</bpm>
+      <cuename>Drums8</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties>
+        <property>
+          <propertyname>Reverse</propertyname>
+          <propertyparametername>Health</propertyparametername>
+          <propertyimportance>1</propertyimportance>
+          <points>
+            <pointx>0</pointx>
+            <pointy>0</pointy>
+            <curve>Linear</curve>
+          </points>
+          <points>
+            <pointx>75</pointx>
+            <pointy>1</pointy>
+            <curve>Linear</curve>
+          </points>
+        </property>
+      </properties>
+    </slice>
+    <slice>
+      <slicename>Drums9</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums9</cuename>
+      <sliceimportance>0</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Drums10</slicename>
+      <slicecategory>drums</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Drums10</cuename>
+      <sliceimportance>0</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm1</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm1</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm2</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm2</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm3</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm3</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm4</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm4</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm5</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm5</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm6</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm6</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm7</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm7</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm8</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm8</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm9</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Rhythm9</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Rhythm10</slicename>
+      <slicecategory>rhythm</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>120</bpm>
+      <cuename>Rhythm10</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead1</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead1</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead2</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead2</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead3</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead3</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead4</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead4</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead5</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead5</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead6</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>120</bpm>
+      <cuename>Lead6</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead7</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead7</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead8</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead8</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead9</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead9</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+    <slice>
+      <slicename>Lead10</slicename>
+      <slicecategory>lead</slicecategory>
+      <rhythm />
+      <timesigx>0</timesigx>
+      <timesigy>0</timesigy>
+      <keysig />
+      <bpm>0</bpm>
+      <cuename>Lead10</cuename>
+      <sliceimportance>1</sliceimportance>
+      <properties />
+    </slice>
+  </slices>
+</environment>
