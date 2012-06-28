@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerHappy", "TriggerHappy.csproj", "{EB422706-21A4-4C66-BE43-F6B8B653578B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB422706-21A4-4C66-BE43-F6B8B653578B}.Debug|x86.ActiveCfg = Debug|x86
+		{EB422706-21A4-4C66-BE43-F6B8B653578B}.Debug|x86.Build.0 = Debug|x86
+		{EB422706-21A4-4C66-BE43-F6B8B653578B}.Release|x86.ActiveCfg = Release|x86
+		{EB422706-21A4-4C66-BE43-F6B8B653578B}.Release|x86.Build.0 = Release|x86
+		{F61B2083-183B-4791-B930-8BCF6F431B4A}.Debug|x86.ActiveCfg = Debug|x86
+		{F61B2083-183B-4791-B930-8BCF6F431B4A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
